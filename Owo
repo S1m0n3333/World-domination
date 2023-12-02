@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Domination HQ</title>
+    <style>
+        body {
+            background-color: pink;
+            color: white;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+        }
+
+        header {
+            background-image: url('https://images.app.goo.gl/tyDwdaM62PUFnKyD7'); /* Flame image URL */
+            background-size: cover;
+            padding: 50px;
+            color: #ff9900; /* Flame color */
+        }
+
+        section {
+            margin: 20px;
+        }
+
+        footer {
+            background-color: #ff9900;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to the World Domination HQ</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Aspiring world dominator with a passion for pink, flames, and adorable cats.</p>
+    </section>
+
+    <section>
+        <h2>Propaganda</h2>
+        <p>Join the movement for global supremacy! Together, we will conquer the world.</p>
+    </section>
+
+    <section>
+        <h2>Cute Cats Gallery</h2>
+        <img src='https://images.app.goo.gl/Q9b9MEgCsVbqegXq5' alt='Cute Cat 1'>
+        <img src='https://images.app.goo.gl/fhA8ZfR2cvCY1j7B7' alt='Cute Cat 2'>
+        <img src='https://images.app.goo.gl/i88XMwQABLB9PFPb6' alt='Cute Cat 3'>
+        <img src='https://images.app.goo.gl/vvAxgS85kPPwxT4D6' alt='Cute Cat 4'>
+        <!-- Add more cat images as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 World Domination HQ</p>
+    </footer>
+
+</body>
+</html>
